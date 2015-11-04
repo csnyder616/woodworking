@@ -1,5 +1,5 @@
 var radius = 8;
-var candleRadius = .5;
+var candleRadius = .4375; // 7/8 diameter
 var candleRingRadius = 6.5;
 var candleColor = '#E49DFC';
 var christCandleColor = '#ffffff';
